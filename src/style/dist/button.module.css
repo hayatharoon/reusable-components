@@ -1,0 +1,9 @@
+.buttonStyle {
+  cursor: pointer;
+  border: none;
+}
+
+.buttonStyle:hover {
+  opacity: 0.7 !important;
+  transform: scale(0.9);
+}/*# sourceMappingURL=button.module.css.map */

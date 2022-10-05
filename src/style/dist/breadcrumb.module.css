@@ -1,0 +1,10 @@
+.breadcrumb {
+  border: 3px solid black;
+  display: inline-block;
+  font-family: monospace;
+  padding: 6px 6px 2px 6px;
+}
+
+.breadcrumbActiveItem {
+  color: black !important;
+}/*# sourceMappingURL=breadcrumb.module.css.map */

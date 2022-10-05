@@ -1,0 +1,8 @@
+.form-check-input:checked {
+  background-color: rgb(8, 6, 6) !important;
+  border-color: rgba(194, 188, 188, 0.533) !important;
+}
+
+.switchStyle {
+  display: inline-block !important;
+}/*# sourceMappingURL=switch.css.map */

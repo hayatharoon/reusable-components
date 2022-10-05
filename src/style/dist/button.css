@@ -1,0 +1,10 @@
+.buttonStyle {
+  cursor: e-resize;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid red;
+  border-radius: 3px;
+  opacity: 0.2;
+}/*# sourceMappingURL=button.css.map */

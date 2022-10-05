@@ -1,0 +1,29 @@
+.table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 1rem;
+  font-family: sans-serif;
+  min-width: 400px;
+  box-shadow: 0 0 20px rbga(0, 0, 0, 0.15);
+  //   border: 2px solid red !important;
+}
+
+//? -------Table Row Style---------
+.tableHeadRow {
+  background-color: #009879;
+  color: #ffffff;
+  text-align: left;
+}
+.tableBodyRow {
+  border-bottom: 1px solid #dddddd;
+}
+.tableBodyRow:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+.tableBodyRow:last-of-type {
+  border-bottom: 2px solid #009879;
+}
+.tableBodyRow:active {
+  font-weight: bold;
+  color: #009879;
+}
